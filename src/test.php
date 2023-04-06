@@ -1,19 +1,7 @@
 <?php
 
-class Product{
+echo "Hello World";
 
-    private string $name;
-    
-    private int $SKU;
-
-    private float $price;
-
-
-
-
-
-
-}
 
 
 
